@@ -1,6 +1,6 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
+import IMG1 from '../../assets/portfolio1.png'
 import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
@@ -11,8 +11,8 @@ const data=[
         id : 1,
         img : IMG1,
         title : "HTML Project",
-        liveDemo : "https://subhangamdey.github.io/HTML-Portfolio/",
-        github : "https://github.com/subhangamdey/HTML-Portfolio"
+        liveDemo : "https://subhangamdey.github.io/HTML-form/",
+        github : "https://github.com/subhangamdey/HTML-form"
     },
 
     {
